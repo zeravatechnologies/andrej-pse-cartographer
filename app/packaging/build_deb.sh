@@ -55,7 +55,7 @@ Architecture: $ARCH
 Installed-Size: $SIZE
 Maintainer: Andrej Ristic <andrej.s.ristic@gmail.com>
 Depends: libc6 (>= 2.34), libgl1, libegl1, libfontconfig1, libxkbcommon0, libdbus-1-3
-Homepage: https://github.com/andrejristic/pse-cartographer
+Homepage: https://github.com/zeravatechnologies/andrej-pse-cartographer
 Description: PSE Cartographer - live J-space cartography of a local GGUF model
  Open a local GGUF language model, map which concepts it holds "in mind" at
  every layer (J-space), feed it prompts and watch that move; plus the full
